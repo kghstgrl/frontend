@@ -90,3 +90,37 @@ button:hover {
   background-color: #d6e4ff;
   color: #1a3d8f;
 }
+
+.divider {
+  margin: 25px 0;
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}
+
+.secondary-btn {
+  background-color: #4a5568;
+}
+
+.secondary-btn:hover {
+  background-color: #2d3748;
+}
+
+.output-group {
+  margin-top: 15px;
+}
+
+.output-group h3 {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.output-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 13px;
+  font-family: inherit;
+  resize: vertical;
+  box-sizing: border-box;
+}
